@@ -13,7 +13,9 @@
 
 
 執行畫面
-(請在此處拖入你的程式執行畫面截圖)
+<img width="416" height="403" alt="image" src="https://github.com/user-attachments/assets/61110d4d-5e57-496a-b08c-e77a6a501335" />
+<img width="416" height="257" alt="image" src="https://github.com/user-attachments/assets/cd730ec2-c8f3-40bc-b80b-c609fbfdf2a4" />
+
 
 
 計算結果判讀
